@@ -1,5 +1,5 @@
-# This is an optional project on MLND.
-# The following is from their readme file.
+This is an optional project on MLND.
+The following is from their readme file.
 
 # Machine Learning Engineer Nanodegree
 ## Introduction and Foundations
