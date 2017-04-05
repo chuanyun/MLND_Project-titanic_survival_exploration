@@ -1,3 +1,6 @@
+#This is an optional project on MLND.
+#The following is from their readme file.
+
 # Machine Learning Engineer Nanodegree
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
@@ -51,7 +54,4 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)# Machine-Learning-Bamboo
-# Machine-Learning-Bamboo
-# Machine-Learning-Bamboo
-# MLND_Project-titanic_survival_exploration
-# MLND_Project-titanic_survival_exploration
+
